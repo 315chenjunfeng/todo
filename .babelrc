@@ -1,0 +1,9 @@
+// babel可以实现，也可以写jsx的代码
+{
+  "presets" : [
+    "env"
+  ],
+  "plugins": [
+    "transform-vue-jsx"
+  ]
+}
